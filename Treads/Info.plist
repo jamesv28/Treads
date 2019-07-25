@@ -53,5 +53,7 @@
 	<array>
 		<string>Montserrat-Regular.ttf</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Treads would like to use your current location for tracking your run</string>
 </dict>
 </plist>
